@@ -5,4 +5,4 @@ Instructor: Maryam Elahi, Mount Royal University
 
 Program: Bachelor of Computer Information Systems
 
-Course: Promgramming 3: Data Structures
+Course: Programming 3, Data Structures
